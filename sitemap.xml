@@ -3,17 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://xxdsan.github.io/categories/</loc>
+    <loc>https://xxdsan.github.io/post/first/</loc>
+    <lastmod>2017-11-22T15:14:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xxdsan.github.io/about/</loc>
+    <lastmod>2017-11-22T14:58:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xxdsan.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://xxdsan.github.io/</loc>
+    <loc>https://xxdsan.github.io/</loc>
+    <lastmod>2017-11-22T15:14:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://xxdsan.github.io/tags/</loc>
+    <loc>https://xxdsan.github.io/post/</loc>
+    <lastmod>2017-11-22T15:14:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xxdsan.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
